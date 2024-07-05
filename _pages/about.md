@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Computer Science Ph.D. student at [Lehigh University](https://www2.lehigh.edu/). My research interests include Medical AI, Generative AI, Multi-Modal Data Analysis, Medical Image Computing, and Brain Imaging Genomics.
+I'm a second-year Computer Science Ph.D. student at [Lehigh University](https://www2.lehigh.edu/). My research interests include Medical AI, Generative AI, Multi-Modal Data Analysis, Medical Image Computing, and Brain Imaging Genomics. Previously, I obtained my B.E. in Computer Science from Minzu University of China.
 
 I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Prof. Yu Zhang](https://yuzhangresearch.weebly.com/), [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/). 
 
