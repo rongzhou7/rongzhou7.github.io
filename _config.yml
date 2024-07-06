@@ -21,7 +21,7 @@ repository               : "rongzhou7/rongzhou7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/rong.jpg"
+  avatar           : "images/rong.jpg"
   name             : "Rong Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at Lehigh University. Focusing on Multimodal Learning, Federated Learning and AI in Healthcare."
