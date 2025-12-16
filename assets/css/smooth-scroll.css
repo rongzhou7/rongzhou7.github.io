@@ -1,0 +1,21 @@
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add padding to sections for better anchor positioning */
+.page-section {
+  padding-top: 60px;
+  margin-top: -60px;
+}
+
+/* Optional: Add some spacing between sections */
+section.page-section {
+  margin-bottom: 3em;
+}
+
+/* Highlight active navigation item */
+.masthead__menu-item a.active {
+  font-weight: bold;
+  border-bottom: 2px solid #52adc8;
+}
