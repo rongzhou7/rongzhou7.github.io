@@ -70,11 +70,11 @@ Yishan Shen*, **Rong Zhou***, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zh
 
 * EfficientLLM: Efficiency in Large Language Models<br>
 Zhengqing Yuan*, Weixiang Sun*, Yixin Liu*, Huichi Zhou*, **Rong Zhou***, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
-International Conference on Machine Learning (<span style="color: #ff8c00;">**ICML**</span>), under review, 2025.
+International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * Can Text-to-Video Models Generate Realistic Human Motion?<br>
 Zhengqing Yuan*, Yunhong He*, Zixuan Weng*, **Rong Zhou***, Weixiang Sun*, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
-International Conference on Machine Learning (<span style="color: #ff8c00;">**ICML**</span>), under review, 2025.
+International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * A Survey on Post-training of Large Language Models<br>
 Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, **Rong Zhou**, et al.<br>
