@@ -50,99 +50,99 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-(^# denotes equal contribution)
+(* denotes equal contribution)
 
-* <span style="color: #ff8c00;">Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation</span><br>
-Rong Zhou, Houliang Zhou, Yao Su, Brian Y. Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
-**ISBI**, under review, 2026.
+* Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation<br>
+**Rong Zhou**, Houliang Zhou, Yao Su, Brian Y. Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
+IEEE International Symposium on Biomedical Imaging (<span style="color: #ff8c00;">**ISBI**</span>), under review, 2026.
 
-* <span style="color: #ff8c00;">TTT-UNet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation</span><br>
-Rong Zhou, Zhengqing Yuan, Zhiling Yan, Weixiang Sun, Kai Zhang, Yiwei Li, Yanfang Ye, Xiang Li, Lifang He, Lichao Sun.<br>
-**MIDL**, under review, 2026.
+* TTT-UNet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation<br>
+**Rong Zhou**, Zhengqing Yuan, Zhiling Yan, Weixiang Sun, Kai Zhang, Yiwei Li, Yanfang Ye, Xiang Li, Lifang He, Lichao Sun.<br>
+Medical Imaging with Deep Learning (<span style="color: #ff8c00;">**MIDL**</span>), under review, 2026.
 
-* <span style="color: #ff8c00;">Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks</span><br>
-Houliang Zhou, Rong Zhou, Yangying Liu, Kanhao Zhao, Li Shen, Brian Y Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
-**arXiv preprint** arXiv:2509.21735, 2025.
+* Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks<br>
+Houliang Zhou, **Rong Zhou**, Yangying Liu, Kanhao Zhao, Li Shen, Brian Y Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
+<span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2509.21735, 2025.
 
-* <span style="color: #ff8c00;">A Scoping Review of Transfer Learning Methods in Biomedical Science Using Structured Real-World Data</span><br>
-Yishan Shen^#, Rong Zhou^#, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
-**npj Artificial Intelligence**, under review, 2025.
+* A Scoping Review of Transfer Learning Methods in Biomedical Science Using Structured Real-World Data<br>
+Yishan Shen*, **Rong Zhou***, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
+<span style="color: #ff8c00;">**npj Artificial Intelligence**</span>, under review, 2025.
 
-* <span style="color: #ff8c00;">EfficientLLM: Efficiency in Large Language Models</span><br>
-Zhengqing Yuan^#, Weixiang Sun^#, Yixin Liu^#, Huichi Zhou^#, Rong Zhou^#, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
-**ICML**, under review, 2025.
+* EfficientLLM: Efficiency in Large Language Models<br>
+Zhengqing Yuan*, Weixiang Sun*, Yixin Liu*, Huichi Zhou*, **Rong Zhou***, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
+International Conference on Machine Learning (<span style="color: #ff8c00;">**ICML**</span>), under review, 2025.
 
-* <span style="color: #ff8c00;">Can Text-to-Video Models Generate Realistic Human Motion?</span><br>
-Zhengqing Yuan^#, Yunhong He^#, Zixuan Weng^#, Rong Zhou^#, Weixiang Sun^#, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
-**ICML**, under review, 2025.
+* Can Text-to-Video Models Generate Realistic Human Motion?<br>
+Zhengqing Yuan*, Yunhong He*, Zixuan Weng*, **Rong Zhou***, Weixiang Sun*, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
+International Conference on Machine Learning (<span style="color: #ff8c00;">**ICML**</span>), under review, 2025.
 
-* <span style="color: #ff8c00;">A Survey on Post-training of Large Language Models</span><br>
-Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, Rong Zhou, et al.<br>
-**ACM Computing Surveys (CSUR)**, under review, 2025.
+* A Survey on Post-training of Large Language Models<br>
+Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, **Rong Zhou**, et al.<br>
+<span style="color: #ff8c00;">**ACM Computing Surveys (CSUR)**</span>, under review, 2025.
 
-* <span style="color: #ff8c00;">SAMed-2: Selective Memory Enhanced Medical Segment Anything Model</span><br>
-Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, Rong Zhou, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br>
-**MICCAI**, 2025.
+* SAMed-2: Selective Memory Enhanced Medical Segment Anything Model<br>
+Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, **Rong Zhou**, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br>
+International Conference on Medical Image Computing and Computer-Assisted Intervention (<span style="color: #ff8c00;">**MICCAI**</span>), 2025.
 
-* <span style="color: #ff8c00;">Multitask learning 1997–2024: Part I fundamentals</span><br>
-Jun Yu, Xiaokang Liu, Chongliang Luo, Jin Huang, Rong Zhou, et al.<br>
-**Harvard Data Science Review**, 2025.
+* Multitask learning 1997–2024: Part I fundamentals<br>
+Jun Yu, Xiaokang Liu, Chongliang Luo, Jin Huang, **Rong Zhou**, et al.<br>
+<span style="color: #ff8c00;">**Harvard Data Science Review**</span>, 2025.
 
-* <span style="color: #ff8c00;">ClusMFL: A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis</span><br>
-Xinpeng Wang, Rong Zhou, Han Xie, Xiaoying Tang, Lifang He, Carl Yang.<br>
-**EMBC**, 2025.
+* ClusMFL: A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis<br>
+Xinpeng Wang, **Rong Zhou**, Han Xie, Xiaoying Tang, Lifang He, Carl Yang.<br>
+Engineering in Medicine and Biology Conference (<span style="color: #ff8c00;">**EMBC**</span>), 2025.
 
-* <span style="color: #ff8c00;">TGNet: tensor-based graph convolutional networks for multimodal brain network analysis</span><br>
-Zhaoming Kong^#, Rong Zhou^#, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
-**BioData Mining**, 2024.
+* TGNet: tensor-based graph convolutional networks for multimodal brain network analysis<br>
+Zhaoming Kong*, **Rong Zhou***, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
+<span style="color: #ff8c00;">**BioData Mining**</span>, 2024.
 
-* <span style="color: #ff8c00;">A generalist vision–language foundation model for diverse biomedical tasks</span><br>
-Kai Zhang, Rong Zhou, Eashan Adhikarla, et al.<br>
-**Nature Medicine**, 2024.
+* A generalist vision–language foundation model for diverse biomedical tasks<br>
+Kai Zhang, **Rong Zhou**, Eashan Adhikarla, et al.<br>
+<span style="color: #ff8c00;">**Nature Medicine**</span>, 2024.
 
-* <span style="color: #ff8c00;">Biomedical sam 2: Segment anything in biomedical images and videos</span><br>
-Zhiling Yan^#, Weixiang Sun^#, Rong Zhou^#, et al.<br>
-**NeurIPS AIM-FM Workshop**, 2024.
+* Biomedical sam 2: Segment anything in biomedical images and videos<br>
+Zhiling Yan*, Weixiang Sun*, **Rong Zhou***, et al.<br>
+Conference on Neural Information Processing Systems AI for Science Workshop (<span style="color: #ff8c00;">**NeurIPS AIM-FM Workshop**</span>), 2024.
 
-* <span style="color: #ff8c00;">ViT-1.58 b: Mobile Vision Transformers in the 1-bit Era</span><br>
-Zhengqing Yuan^#, Rong Zhou^#, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
-**arXiv preprint** arXiv:2406.18051, 2024.
+* ViT-1.58 b: Mobile Vision Transformers in the 1-bit Era<br>
+Zhengqing Yuan*, **Rong Zhou***, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
+<span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2406.18051, 2024.
 
-* <span style="color: #ff8c00;">Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V</span><br>
-Zhiling Yan, Kai Zhang, Rong Zhou, Lifang He, Xiang Li, Lichao Sun.<br>
-**IEEE Journal of Biomedical and Health Informatics (JBHI)**, under review, 2024.
+* Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V<br>
+Zhiling Yan, Kai Zhang, **Rong Zhou**, Lifang He, Xiang Li, Lichao Sun.<br>
+<span style="color: #ff8c00;">**IEEE Journal of Biomedical and Health Informatics (JBHI)**</span>, under review, 2024.
 
-* <span style="color: #ff8c00;">Normative Modeling with Focal Loss and Adversarial Autoencoders for Precise Identification of Alzheimer's Disease</span><br>
-Songlin Zhao, Rong Zhou, Yu Zhang, Yong Chen, Lifang He.<br>
-**MICCAI-AMAI Workshop**, 2024.
+* Normative Modeling with Focal Loss and Adversarial Autoencoders for Precise Identification of Alzheimer's Disease<br>
+Songlin Zhao, **Rong Zhou**, Yu Zhang, Yong Chen, Lifang He.<br>
+MICCAI Workshop on Augmented Environments for Computer-Assisted Interventions (<span style="color: #ff8c00;">**MICCAI-AMAI Workshop**</span>), 2024.
 
-* <span style="color: #ff8c00;">Integrating Multimodal Contrastive Learning and Cross-Modal Attention for Alzheimer's Disease Prediction in Brain Imaging Genetics</span><br>
-Rong Zhou, Houliang Zhou, Li Shen, Brian Chen, Yu Zhang, Lifang He.<br>
-**IEEE BIBM**, 2023.
+* Integrating Multimodal Contrastive Learning and Cross-Modal Attention for Alzheimer's Disease Prediction in Brain Imaging Genetics<br>
+**Rong Zhou**, Houliang Zhou, Li Shen, Brian Chen, Yu Zhang, Lifang He.<br>
+IEEE International Conference on Bioinformatics and Biomedicine (<span style="color: #ff8c00;">**IEEE BIBM**</span>), 2023.
 
-* <span style="color: #ff8c00;">Attentive Deep Canonical Correlation Analysis for Diagnosing Alzheimer's Disease Using Multimodal Imaging Genetics</span><br>
-Rong Zhou, Houliang Zhou, Brian Chen, Li Shen, Yu Zhang, Lifang He.<br>
-**MICCAI**, 2023 (Early Accept).
+* Attentive Deep Canonical Correlation Analysis for Diagnosing Alzheimer's Disease Using Multimodal Imaging Genetics<br>
+**Rong Zhou**, Houliang Zhou, Brian Chen, Li Shen, Yu Zhang, Lifang He.<br>
+International Conference on Medical Image Computing and Computer-Assisted Intervention (<span style="color: #ff8c00;">**MICCAI**</span>), 2023 (Early Accept).
 
-* <span style="color: #ff8c00;">Normative Modeling via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer's Disease</span><br>
-Xuetong Wang^#, Rong Zhou^#, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
-**IEEE ISBI**, 2023 (Oral).
+* Normative Modeling via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer's Disease<br>
+Xuetong Wang*, **Rong Zhou***, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
+IEEE International Symposium on Biomedical Imaging (<span style="color: #ff8c00;">**IEEE ISBI**</span>), 2023 (Oral).
 
-* <span style="color: #ff8c00;">Elaborate Bladder Cancer Knowledge Graph for Question Answering System Based on BERT-BiLSTM-CRF</span><br>
-Rong Zhou, Kai Yang, Zhen Li, Kai Wu, Peng Wu, Song Wu.<br>
-**Journal of Biomedical Informatics**, under review, 2023.
+* Elaborate Bladder Cancer Knowledge Graph for Question Answering System Based on BERT-BiLSTM-CRF<br>
+**Rong Zhou**, Kai Yang, Zhen Li, Kai Wu, Peng Wu, Song Wu.<br>
+<span style="color: #ff8c00;">**Journal of Biomedical Informatics**</span>, under review, 2023.
 
-* <span style="color: #ff8c00;">Multimodal Investigation of Bladder Cancer Data Based on CT, Whole Slide Image and Transcriptome</span><br>
-Peng Wu, Kai Wu, Zhe Li, Hanlin Liu, Kai Yang, Rong Zhou, Ziyu Zhou, Nianzeng Xing, Song Wu.<br>
-**Quantitative Imaging in Medicine and Surgery**, 2023.
+* Multimodal Investigation of Bladder Cancer Data Based on CT, Whole Slide Image and Transcriptome<br>
+Peng Wu, Kai Wu, Zhe Li, Hanlin Liu, Kai Yang, **Rong Zhou**, Ziyu Zhou, Nianzeng Xing, Song Wu.<br>
+<span style="color: #ff8c00;">**Quantitative Imaging in Medicine and Surgery**</span>, 2023.
 
-* <span style="color: #ff8c00;">A Method for Building an Intelligent Question-Answering System based on Bladder Cancer Knowledge Graph</span><br>
-Song Wu, Rong Zhou, Kai Yang.<br>
-**Chinese Patent**, 2022.
+* A Method for Building an Intelligent Question-Answering System based on Bladder Cancer Knowledge Graph<br>
+Song Wu, **Rong Zhou**, Kai Yang.<br>
+<span style="color: #ff8c00;">**Chinese Patent**</span>, 2022.
 
-* <span style="color: #ff8c00;">The Design and Implementation of Chinese-Uighur-English Online Dictionary Based on Knowledge Graph</span><br>
-Lirong Qiu, Huan Yang, Rong Zhou.<br>
-**IEEE CSE and EUC**, 2017.
+* The Design and Implementation of Chinese-Uighur-English Online Dictionary Based on Knowledge Graph<br>
+Lirong Qiu, Huan Yang, **Rong Zhou**.<br>
+IEEE International Conference on Computational Science and Engineering and Embedded and Ubiquitous Computing (<span style="color: #ff8c00;">**IEEE CSE and EUC**</span>), 2017.
 
 </div>
 
