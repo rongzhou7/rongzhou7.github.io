@@ -50,7 +50,7 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-(* denotes equal contribution)
+(<sup>*</sup> denotes equal contribution)
 
 * **Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation**<br>
 **Rong Zhou**, Houliang Zhou, Yao Su, Brian Y. Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
@@ -65,15 +65,15 @@ Houliang Zhou, **Rong Zhou**, Yangying Liu, Kanhao Zhao, Li Shen, Brian Y Chen, 
 <span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2509.21735, 2025.
 
 * **A Scoping Review of Transfer Learning Methods in Biomedical Science Using Structured Real-World Data**<br>
-Yishan Shen*, **Rong Zhou***, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
+**Yishan Shen**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
 <span style="color: #ff8c00;">**npj Artificial Intelligence**</span>, under review, 2025.
 
 * **EfficientLLM: Efficiency in Large Language Models**<br>
-Zhengqing Yuan*, Weixiang Sun*, Yixin Liu*, Huichi Zhou*, **Rong Zhou***, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
+**Zhengqing Yuan**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, **Yixin Liu**<sup>*</sup>, **Huichi Zhou**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
 International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * **Can Text-to-Video Models Generate Realistic Human Motion?**<br>
-Zhengqing Yuan*, Yunhong He*, Zixuan Weng*, **Rong Zhou***, Weixiang Sun*, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
+**Zhengqing Yuan**<sup>*</sup>, **Yunhong He**<sup>*</sup>, **Zixuan Weng**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
 International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * **A Survey on Post-training of Large Language Models**<br>
@@ -93,7 +93,7 @@ Xinpeng Wang, **Rong Zhou**, Han Xie, Xiaoying Tang, Lifang He, Carl Yang.<br>
 Engineering in Medicine and Biology Conference (<span style="color: #ff8c00;">**EMBC**</span>), 2025.
 
 * **TGNet: tensor-based graph convolutional networks for multimodal brain network analysis**<br>
-Zhaoming Kong*, **Rong Zhou***, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
+**Zhaoming Kong**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
 <span style="color: #ff8c00;">**BioData Mining**</span>, 2024.
 
 * **A generalist vision–language foundation model for diverse biomedical tasks**<br>
@@ -101,11 +101,11 @@ Kai Zhang, **Rong Zhou**, Eashan Adhikarla, et al.<br>
 <span style="color: #ff8c00;">**Nature Medicine**</span>, 2024.
 
 * **Biomedical sam 2: Segment anything in biomedical images and videos**<br>
-Zhiling Yan*, Weixiang Sun*, **Rong Zhou***, et al.<br>
+**Zhiling Yan**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, et al.<br>
 Conference on Neural Information Processing Systems AI for Science Workshop (<span style="color: #ff8c00;">**NeurIPS AIM-FM Workshop**</span>), 2024.
 
 * **ViT-1.58 b: Mobile Vision Transformers in the 1-bit Era**<br>
-Zhengqing Yuan*, **Rong Zhou***, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
+**Zhengqing Yuan**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
 <span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2406.18051, 2024.
 
 * **Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V**<br>
@@ -125,7 +125,7 @@ IEEE International Conference on Bioinformatics and Biomedicine (<span style="co
 International Conference on Medical Image Computing and Computer-Assisted Intervention (<span style="color: #ff8c00;">**MICCAI**</span>), 2023 (Early Accept).
 
 * **Normative Modeling via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer's Disease**<br>
-Xuetong Wang*, **Rong Zhou***, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
+**Xuetong Wang**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
 IEEE International Symposium on Biomedical Imaging (<span style="color: #ff8c00;">**IEEE ISBI**</span>), 2023 (Oral).
 
 * **Elaborate Bladder Cancer Knowledge Graph for Question Answering System Based on BERT-BiLSTM-CRF**<br>
