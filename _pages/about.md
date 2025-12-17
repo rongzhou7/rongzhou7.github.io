@@ -65,19 +65,19 @@ Houliang Zhou, **Rong Zhou**, Yangying Liu, Kanhao Zhao, Li Shen, Brian Y Chen, 
 <span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2509.21735, 2025.
 
 * **A Scoping Review of Transfer Learning Methods in Biomedical Science Using Structured Real-World Data**<br>
-**Yishan Shen**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
+Yishan Shen<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
 <span style="color: #ff8c00;">**npj Artificial Intelligence**</span>, under review, 2025.
 
 * **EfficientLLM: Efficiency in Large Language Models**<br>
-**Zhengqing Yuan**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, **Yixin Liu**<sup>*</sup>, **Huichi Zhou**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
+Zhengqing Yuan<sup>*</sup>, Weixiang Sun<sup>*</sup>, Yixin Liu<sup>*</sup>, Huichi Zhou<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
 International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * **Can Text-to-Video Models Generate Realistic Human Motion?**<br>
-**Zhengqing Yuan**<sup>*</sup>, **Yunhong He**<sup>*</sup>, **Zixuan Weng**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
+Zhengqing Yuan<sup>*</sup>, Yunhong He<sup>*</sup>, Zixuan Weng<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Weixiang Sun<sup>*</sup>, Mengyu Wang, Lifang He, Lichao Sun, Yanfang Ye.<br>
 International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
 
 * **A Survey on Post-training of Large Language Models**<br>
-Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, **Rong Zhou**, et al.<br>
+Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, **Rong Zhou**, Yurou Dai, Wen Yin, Zhejian Yang, Jiangyue Yan, Zhenhan Dai, Yao Su, Yifeng Xie, Yihan Cao, Lichao Sun, Pan Zhou, Weiran Huang, Lifang He, Hechang Chen, Yu Zhang, Qingsong Wen, Tianming Liu, Yong Chen, Neil Gong, Jiliang Tang, Caiming Xiong, Heng Ji, Philip Yu, Jianfeng Gao.<br>
 ACM Computing Surveys (<span style="color: #ff8c00;">**CSUR**</span>), under review, 2025.
 
 * **SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**<br>
@@ -85,7 +85,7 @@ Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, **Rong Zhou**, Weixiang Sun, Zh
 International Conference on Medical Image Computing and Computer-Assisted Intervention (<span style="color: #ff8c00;">**MICCAI**</span>), 2025.
 
 * **Multitask learning 1997–2024: Part I fundamentals**<br>
-Jun Yu, Xiaokang Liu, Chongliang Luo, Jin Huang, **Rong Zhou**, et al.<br>
+Jun Yu, Xiaokang Liu, Chongliang Luo, Jin Huang, **Rong Zhou**, Yixin Liu, Jie Hu, Jianmin Chen, Ke Zhang, Dazheng Zhang, Yishan Shen, Eashan Adhikarla, Yutong Dai, Kai Zhang, Zhaoming Kong, Wenxuan Ye, Yilong Yin, Vinod Namboodiri, Brian Davison, Jason Moore, Yong Chen.<br>
 <span style="color: #ff8c00;">**Harvard Data Science Review**</span>, 2025.
 
 * **ClusMFL: A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis**<br>
@@ -93,19 +93,19 @@ Xinpeng Wang, **Rong Zhou**, Han Xie, Xiaoying Tang, Lifang He, Carl Yang.<br>
 Engineering in Medicine and Biology Conference (<span style="color: #ff8c00;">**EMBC**</span>), 2025.
 
 * **TGNet: tensor-based graph convolutional networks for multimodal brain network analysis**<br>
-**Zhaoming Kong**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
+Zhaoming Kong<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Xinwei Luo, Songlin Zhao, Ann B Ragin, Alex D Leow, Lifang He.<br>
 <span style="color: #ff8c00;">**BioData Mining**</span>, 2024.
 
 * **A generalist vision–language foundation model for diverse biomedical tasks**<br>
-Kai Zhang, **Rong Zhou**, Eashan Adhikarla, et al.<br>
+Kai Zhang, **Rong Zhou**, Eashan Adhikarla, Zhiling Yan, Weixiang Sun, Yiwei Li, Zhennong Chen, Sekeun Kim, Hui Ren, Zhengliang Liu, Xun Chen, Brian D Davison, Jing Huang, Chen Chen, Yuyin Zhou, Sunyang Fu, Wei Liu, Tianming Liu, Xiang Li, Yong Chen, Lifang He, James Zou, Quanzheng Li, Hongfang Liu, Lichao Sun.<br>
 <span style="color: #ff8c00;">**Nature Medicine**</span>, 2024.
 
 * **Biomedical sam 2: Segment anything in biomedical images and videos**<br>
-**Zhiling Yan**<sup>*</sup>, **Weixiang Sun**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, et al.<br>
+Zhiling Yan<sup>*</sup>, Weixiang Sun<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Sifan Song, Dingjie Song, Zhengqing Yuan, Kai Zhang, Yiwei Li, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br>
 Conference on Neural Information Processing Systems AI for Science Workshop (<span style="color: #ff8c00;">**NeurIPS AIM-FM Workshop**</span>), 2024.
 
 * **ViT-1.58 b: Mobile Vision Transformers in the 1-bit Era**<br>
-**Zhengqing Yuan**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
+Zhengqing Yuan<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Hongyi Wang, Lifang He, Yanfang Ye, Lichao Sun.<br>
 <span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2406.18051, 2024.
 
 * **Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V**<br>
@@ -125,7 +125,7 @@ IEEE International Conference on Bioinformatics and Biomedicine (<span style="co
 International Conference on Medical Image Computing and Computer-Assisted Intervention (<span style="color: #ff8c00;">**MICCAI**</span>), 2023 (Early Accept).
 
 * **Normative Modeling via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer's Disease**<br>
-**Xuetong Wang**<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
+Xuetong Wang<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Kanhao Zhao, Alex Leow, Yu Zhang, Lifang He.<br>
 IEEE International Symposium on Biomedical Imaging (<span style="color: #ff8c00;">**IEEE ISBI**</span>), 2023 (Oral).
 
 * **Elaborate Bladder Cancer Knowledge Graph for Question Answering System Based on BERT-BiLSTM-CRF**<br>
