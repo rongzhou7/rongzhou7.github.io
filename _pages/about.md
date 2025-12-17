@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<section id="about" class="page-section">
+<div id="about" class="page-section" markdown="1">
 
 ## About Me
 
@@ -15,18 +15,18 @@ I'm a second-year Computer Science Ph.D. student at [Lehigh University](https://
 
 I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Prof. Yu Zhang](https://yuzhangresearch.weebly.com/), [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/).
 
-</section>
+</div>
 
-<section id="news" class="page-section">
+<div id="news" class="page-section" markdown="1">
 
 ## News
 
 * **[Dec 2024]** Updated website to single-page format
 * **[Add your news here]** Your news content...
 
-</section>
+</div>
 
-<section id="research" class="page-section">
+<div id="research" class="page-section" markdown="1">
 
 ## Research Interests
 
@@ -36,9 +36,9 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
 * **Medical Image Computing**: Advanced image processing and analysis for medical applications
 * **Brain Imaging Genomics**: Linking brain imaging phenotypes with genetic variants
 
-</section>
+</div>
 
-<section id="publications" class="page-section">
+<div id="publications" class="page-section" markdown="1">
 
 ## Publications
 
@@ -52,9 +52,9 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
   {% include archive-single.html %}
 {% endfor %}
 
-</section>
+</div>
 
-<section id="awards" class="page-section">
+<div id="awards" class="page-section" markdown="1">
 
 ## Honors & Awards
 
@@ -62,4 +62,4 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
 * **[Year]** Award Name - Organization
 * **[Add your awards here]**
 
-</section>
+</div>
