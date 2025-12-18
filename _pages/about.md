@@ -11,9 +11,9 @@ redirect_from:
 
 ## About Me
 
-I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehigh.edu/) (GPA: 4.0/4.0). My research focuses on Deep Learning (Generative Modeling, Contrastive Learning, Cross-Modal Attention), Multimodal Learning, Medical Image Computing, and Brain Imaging Genomics.
+I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehigh.edu/). My research focuses on Deep Learning (Generative Modeling, Contrastive Learning, Cross-Modal Attention), Multimodal Learning, Medical Image Computing, and Brain Imaging Genomics.
 
-I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he) (Lehigh University), [Prof. Yu Zhang](https://yuzhangresearch.weebly.com/) (Lehigh University), and [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/) (Lehigh University).
+I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Prof. Yu Zhang](https://yuzhangresearch.weebly.com/), and [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/).
 
 </div>
 
