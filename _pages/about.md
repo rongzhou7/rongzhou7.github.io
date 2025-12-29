@@ -64,10 +64,6 @@ Medical Imaging with Deep Learning (<span style="color: #ff8c00;">**MIDL**</span
 Houliang Zhou, **Rong Zhou**, Yangying Liu, Kanhao Zhao, Li Shen, Brian Y Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
 <span style="color: #ff8c00;">**arXiv preprint**</span> arXiv:2509.21735, 2025.
 
-* **A Scoping Review of Transfer Learning Methods in Biomedical Science Using Structured Real-World Data**<br>
-Yishan Shen<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Zhaoyi Chen, Qiong Wu, Yu Huang, Zheng Feng, Ke Zhang, Jun Yu, Lifang He, Jiang Bian, Yong Chen.<br>
-<span style="color: #ff8c00;">**npj Artificial Intelligence**</span>, under review, 2025.
-
 * **EfficientLLM: Efficiency in Large Language Models**<br>
 Zhengqing Yuan<sup>*</sup>, Weixiang Sun<sup>*</sup>, Yixin Liu<sup>*</sup>, Huichi Zhou<sup>*</sup>, **Rong Zhou**<sup>*</sup>, Yiyang Li, Zheyuan Zhang, Wei Song, Yue Huang, Haolong Jia, Keerthiram Murugesan, Yu Wang, Lifang He, Jianfeng Gao, Lichao Sun, Yanfang Ye.<br>
 International Conference on Learning Representations (<span style="color: #ff8c00;">**ICLR**</span>), under review, 2025.
