@@ -18,7 +18,7 @@ I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehi
 <div id="news" class="page-section" markdown="1">
 
 ## News
-* <span style="color: gray;">[2026.03]</span> Our work [ACADiff](https://arxiv.org/abs/2502.14064): Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation is accepted to [ISBI 2026](https://biomedicalimaging.org/2026/) as an <span style="color: red;">Oral</span>.
+* <span style="color: gray;">[2026.03]</span> Our work [ACADiff](https://arxiv.org/abs/2603.09931): Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation is accepted to [ISBI 2026](https://biomedicalimaging.org/2026/) as an <span style="color: red;">Oral</span>.
 * <span style="color: gray;">[2026.03]</span> Our work [TTT-UNet](https://arxiv.org/abs/2409.11299): Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation is accepted to [MIDL 2026](https://2026.midl.io/) as an <span style="color: red;">Oral</span> (Top 8%).
 * <span style="color: gray;">[2026.02]</span> Our work [BrainGFM-Diff](https://arxiv.org/abs/2409.11299): Diffusion-Guided Pretraining for Brain Graph Foundation Models is released.
 * <span style="color: gray;">[2025.09]</span> Our [work](https://arxiv.org/abs/2509.21735) Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression is released.
