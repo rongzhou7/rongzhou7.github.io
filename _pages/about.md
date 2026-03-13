@@ -11,38 +11,37 @@ redirect_from:
 
 ## About Me
 
-I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehigh.edu/). My research focuses on Deep Learning (Generative Modeling, Contrastive Learning, Cross-Modal Attention), Multimodal Learning, Medical Image Computing, and Brain Imaging Genomics.
-
-I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Prof. Yu Zhang](https://profiles.stanford.edu/176276), and [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/).
+I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehigh.edu/). My research focuses on Deep Learning (Generative Modeling, Contrastive Learning, Cross-Modal Attention), Multimodal Learning, Medical Image Computing, and Brain Imaging Genomics. I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Prof. Yu Zhang](https://profiles.stanford.edu/176276), and [Prof. Brian Y. Chen](https://www.cse.lehigh.edu/~chen/).
 
 </div>
 
 <div id="news" class="page-section" markdown="1">
 
 ## News
-* <span style="color: gray;">[2026.03]</span> Our work [**ACADiff**](https://arxiv.org/abs/2502.14064): Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation is accepted to [**ISBI 2026**](https://biomedicalimaging.org/2026/) as an <span style="color: red;">**Oral**</span>.
-* <span style="color: gray;">[2026.03]</span> Our work [**TTT-UNet**](https://arxiv.org/abs/2409.11299): Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation is accepted to [**MIDL 2026**](https://2026.midl.io/) as an <span style="color: red;">**Oral**</span> (Top 8%).
-* <span style="color: gray;">[2026.02]</span> Our work [**BrainGFM-Diff**](https://arxiv.org/abs/2409.11299): Diffusion-Guided Pretraining for Brain Graph Foundation Models is released.
-* <span style="color: gray;">[2025.09]</span> Our [**work**](https://arxiv.org/abs/2509.21735) Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression is released.
-* <span style="color: gray;">[2025.07]</span> Our [**survey**](https://hdsr.mitpress.mit.edu/pub/7fcc3jhv/release/2) on Multitask Learning is accepted to [**Harvard Data Science Review**](https://hdsr.mitpress.mit.edu/).
+* <span style="color: gray;">[2026.03]</span> Our work [ACADiff](https://arxiv.org/abs/2502.14064): Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation is accepted to [ISBI 2026](https://biomedicalimaging.org/2026/) as an <span style="color: red;">Oral</span>.
+* <span style="color: gray;">[2026.03]</span> Our work [TTT-UNet](https://arxiv.org/abs/2409.11299): Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation is accepted to [MIDL 2026](https://2026.midl.io/) as an <span style="color: red;">Oral</span> (Top 8%).
+* <span style="color: gray;">[2026.02]</span> Our work [BrainGFM-Diff](https://arxiv.org/abs/2409.11299): Diffusion-Guided Pretraining for Brain Graph Foundation Models is released.
+* <span style="color: gray;">[2025.09]</span> Our [work](https://arxiv.org/abs/2509.21735) Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression is released.
+* <span style="color: gray;">[2025.07]</span> Our [survey](https://hdsr.mitpress.mit.edu/pub/7fcc3jhv/release/2) on Multitask Learning is accepted to [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/).
 * <span style="color: gray;">[2025.08]</span>🎉 Awarded for Rossin Professional Development Program Fellowship.
 * <span style="color: gray;">[2025.06]</span>🎉 Glad to received Lehigh AI Project Award.
-* <span style="color: gray;">[2025.06]</span> Our work [**SAMed-2**](https://arxiv.org/abs/2507.03698): Selective Memory Enhanced Medical Segment Anything Model is accepted to [**MICCAI 2025**](https://conferences.miccai.org/2025/).
-* <span style="color: gray;">[2025.05]</span> Our [**EfficientLLM**](https://arxiv.org/abs/2509.21735): Efficiency in Large Language Models is released.
+* <span style="color: gray;">[2025.06]</span> Our work [SAMed-2](https://arxiv.org/abs/2507.03698): Selective Memory Enhanced Medical Segment Anything Model is accepted to [MICCAI 2025](https://conferences.miccai.org/2025/).
+* <span style="color: gray;">[2025.05]</span> Our [EfficientLLM](https://arxiv.org/abs/2509.21735): Efficiency in Large Language Models is released.
 * <span style="color: gray;">[2025.05]</span>🎉 Started Research Internship at Squirrel AI Learning, Seattle, WA.
-* <span style="color: gray;">[2025.04]</span>🎉 Co-organized [**AAAI 2025 Spring Symposium**](https://sites.google.com/view/aaai25-ai4health) on AI for Health.
-* <span style="color: gray;">[2025.03]</span> Our [**survey**](https://arxiv.org/abs/2503.06072) on post-training of large language models is released.
-* <span style="color: gray;">[2024.10]</span> Our work [**Biomedical SAM 2**](https://arxiv.org/abs/2408.03286): Segment Anything in Biomedical Images and Videos is accepted to [**AIM-FM Workshop @ NeurIPS'24**](https://aim-fm-24.github.io/NeurIPS/).
-* <span style="color: gray;">[2024.11]</span> Our work [**TGNet**](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00409-6): Tensor-Based Graph Convolutional Networks for Multimodal Brain Network Analysis is accepted to [**BioData Mining**](https://biodatamining.biomedcentral.com/).
-* <span style="color: gray;">[2024.07]</span> Our work [**BiomedGPT**](https://www.nature.com/articles/s41591-024-03185-2): A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks is accepted to [**Nature Medicine**](https://www.nature.com/nm/).
-* <span style="color: gray;">[2024.07]</span> Our work on [**FAAE**](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_22): Normative Modeling with Focal Loss and Adversarial Autoencoders for Alzheimer’s Disease Diagnosis and Biomarker Identification is accepted to is accepted to [**AMAI 2024**](https://sites.google.com/view/amai2024/home).
-* <span style="color: gray;">[2026.02]</span> Our work [**ViT-1.58b**](https://arxiv.org/abs/2406.18051): ViT-1.58b: Mobile Vision Transformers in the 1-bit Era is released.
-* <span style="color: gray;">[2024.06]</span> Our work [**ClusMFL**](https://arxiv.org/abs/2501.01447): A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis is accepted to [**EMBC 2025**](https://embc.embs.org/2025/).
+* <span style="color: gray;">[2025.04]</span>🎉 Co-organized [AAAI 2025 Spring Symposium](https://sites.google.com/view/aaai25-ai4health) on AI for Health.
+* <span style="color: gray;">[2025.03]</span> Our [survey](https://arxiv.org/abs/2503.06072) on post-training of large language models is released.
+* <span style="color: gray;">[2024.10]</span> Our work [Biomedical SAM 2](https://arxiv.org/abs/2408.03286): Segment Anything in Biomedical Images and Videos is accepted to [AIM-FM Workshop @ NeurIPS'24](https://aim-fm-24.github.io/NeurIPS/).
+* <span style="color: gray;">[2024.11]</span> Our work [TGNet](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00409-6): Tensor-Based Graph Convolutional Networks for Multimodal Brain Network Analysis is accepted to [BioData Mining](https://biodatamining.biomedcentral.com/).
+* <span style="color: gray;">[2024.07]</span> Our work [BiomedGPT](https://www.nature.com/articles/s41591-024-03185-2): A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks is accepted to [Nature Medicine](https://www.nature.com/nm/).
+* <span style="color: gray;">[2024.07]</span> Our work on [FAAE](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_22): Normative Modeling with Focal Loss and Adversarial Autoencoders for Alzheimer's Disease Diagnosis and Biomarker Identification is accepted to is accepted to [AMAI 2024](https://sites.google.com/view/amai2024/home).
+* <span style="color: gray;">[2026.02]</span> Our work [ViT-1.58b](https://arxiv.org/abs/2406.18051): ViT-1.58b: Mobile Vision Transformers in the 1-bit Era is released.
+* <span style="color: gray;">[2024.06]</span> Our work [ClusMFL](https://arxiv.org/abs/2501.01447): A Cluster-Enhanced Framework for Modality-Incomplete Multimodal Federated Learning in Brain Imaging Analysis is accepted to [EMBC 2025](https://embc.embs.org/2025/).
 * <span style="color: gray;">[2024.04]</span>🎉 Glad to receive MLSys'24 Student Travel Award.
-* <span style="color: gray;">[2023.10]</span> Our work [**MCLCA**](https://ieeexplore.ieee.org/document/10385864/): Integrating Multimodal Contrastive Learning and Cross-Modal Attention for Alzheimer's Disease Prediction is accepted to [**IEEE BIBM 2023**](https://ieeebibm.org/BIBM2023/).
-* <span style="color: gray;">[2023.05]</span> Our work [**ADCCA**](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_64): Attentive Deep Canonical Correlation Analysis for Diagnosing Alzheimer's Disease is accepted to [**MICCAI 2023**](https://conferences.miccai.org/2023/) as an <span style="color: red;">**Early Accept**</span>.
-* <span style="color: gray;">[2023.01]</span> Our work on [**ACVAE**](https://ieeexplore.ieee.org/document/10230377): Normative Modeling Via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer’s Disease is accepted to [**ISBI 2023**](https://biomedicalimaging.org/2023/) as an <span style="color: red;">**Oral**</span>.
-* <span style="color: gray;">[2022.08]</span>🎉 Started my Ph.D. journey in Computer Science at [**Lehigh University**](https://www.lehigh.edu/)!
+* <span style="color: gray;">[2023.10]</span> Our work [MCLCA](https://ieeexplore.ieee.org/document/10385864/): Integrating Multimodal Contrastive Learning and Cross-Modal Attention for Alzheimer's Disease Prediction is accepted to [IEEE BIBM 2023](https://ieeebibm.org/BIBM2023/).
+* <span style="color: gray;">[2023.05]</span> Our work [ADCCA](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_64): Attentive Deep Canonical Correlation Analysis for Diagnosing Alzheimer's Disease is accepted to [MICCAI 2023](https://conferences.miccai.org/2023/) as an <span style="color: red;">Early Accept</span>.
+* <span style="color: gray;">[2023.01]</span> Our work on [ACVAE](https://ieeexplore.ieee.org/document/10230377): Normative Modeling Via Conditional Variational Autoencoder and Adversarial Learning to Identify Brain Dysfunction in Alzheimer's Disease is accepted to [ISBI 2023](https://biomedicalimaging.org/2023/) as an <span style="color: red;">Oral</span>.
+* <span style="color: gray;">[2022.08]</span>🎉 Started my Ph.D. journey in Computer Science at [Lehigh University](https://www.lehigh.edu/)!
+
 <div id="research" class="page-section" markdown="1">
 
 ## Research Interests
