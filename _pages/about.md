@@ -60,9 +60,7 @@ I'm a Ph.D. student in Computer Science at [Lehigh University](https://www2.lehi
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
-
-(<sup>*</sup> denotes equal contribution)
+{% endif %} (<sup>*</sup>: equal contribution)
 
 * **Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation**<br>
 **Rong Zhou**, Houliang Zhou, Yao Su, Brian Y. Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative.<br>
