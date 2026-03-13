@@ -23,9 +23,9 @@ I am very fortunate to be advised by [Prof. Lifang He](https://engineering.lehig
 * <span style="color: gray;">[2026.03]</span> Our work [**ACADiff**](https://arxiv.org/abs/2502.14064): Adaptive Clinical Aware Latent Diffusion for Multimodal Brain Image Generation And Missing Modality Imputation is accepted to [**ISBI 2026**](https://biomedicalimaging.org/2026/) as an <span style="color: red;">**Oral**</span>.
 * <span style="color: gray;">[2026.03]</span> Our work [**TTT-UNet**](https://arxiv.org/abs/2409.11299): Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation is accepted to [**MIDL 2026**](https://2026.midl.io/) as an <span style="color: red;">**Oral**</span> (Top 8%).
 * <span style="color: gray;">[2026.02]</span> Our work [**BrainGFM-Diff**](https://arxiv.org/abs/2409.11299): Diffusion-Guided Pretraining for Brain Graph Foundation Models is released.
-* <span style="color: gray;">[2025.09]</span> Our [**work**](https://arxiv.org/abs/2509.21735): Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression is released.
-* <span style="color: gray;">[2025.07]</span> Our [survey](https://hdsr.mitpress.mit.edu/pub/7fcc3jhv/release/2): Multitask Learning is accepted to [**Harvard Data Science Review**](https://hdsr.mitpress.mit.edu/).
-* <span style="color: gray;">[2025.08]</span>🎉 Selected for Rossin Professional Development Program Fellowship.
+* <span style="color: gray;">[2025.09]</span> Our [**work**](https://arxiv.org/abs/2509.21735) Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression is released.
+* <span style="color: gray;">[2025.07]</span> Our [**survey**](https://hdsr.mitpress.mit.edu/pub/7fcc3jhv/release/2) on Multitask Learning is accepted to [**Harvard Data Science Review**](https://hdsr.mitpress.mit.edu/).
+* <span style="color: gray;">[2025.08]</span>🎉 Awarded for Rossin Professional Development Program Fellowship.
 * <span style="color: gray;">[2025.06]</span>🎉 Glad to received Lehigh AI Project Award.
 * <span style="color: gray;">[2025.06]</span> Our work [**SAMed-2**](https://arxiv.org/abs/2507.03698): Selective Memory Enhanced Medical Segment Anything Model is accepted to [**MICCAI 2025**](https://conferences.miccai.org/2025/).
 * <span style="color: gray;">[2025.05]</span> Our [**EfficientLLM**](https://arxiv.org/abs/2509.21735): Efficiency in Large Language Models is released.
